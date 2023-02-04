@@ -49,4 +49,4 @@
 
 
 ## GitHub Profile Statistics
-<img src="https://github-profile-trophy.vercel.app/?username=maw101&theme=onedark#svgView(viewBox(0,0,220,110))" style="margin-left: -220px;" alt="GitHub Profile Statistics for maw101">
+![GitHub Profile Statistics for maw101](https://github-profile-trophy.vercel.app/?username=maw101&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)
