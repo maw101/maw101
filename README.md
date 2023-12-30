@@ -1,15 +1,16 @@
 # Hi! I'm Matthew 👋
-## A driven Software Engineering Master's Student 👨‍🎓
+## A driven Full Stack &amp; Backend Software Engineer
 
-- 👨‍💻 I’m currently working on **my master's studies and a full-stack energy generation & consumption application**
+- 👨‍💻 I’m currently working on a range of full stack &amp; backend tech projects as a Software Engineer in the UK.
 
-- 📖 I’m currently improving my skills in **C# and React**
+- 💻 Industrial experience in a variety of sectors with a wide variety of tech stacks.
 
-- 💻 Industrial experience from a placement year and a summer internship
+- 📖 I’m currently improving my skills in **C# and React**.
 
-- 🏆 87% Undergraduate average (Computer Science), attaining several scholarships & prizes for achievement
+- 🏆 85% degree average (Master's &amp; Undergraduate degrees in Computer Science).
+    - Attained several scholarships & prizes for achievement alongside completing a placement year and summer internships.
 
-- 📫 Feel free to contact me and learn more about my experience through [**LinkedIn**](https://www.linkedin.com/in/maw101)
+- 📫 Feel free to contact me and learn more about my experience through [**LinkedIn**](https://www.linkedin.com/in/maw101).
 
 
 ## Languages and Tools:
@@ -25,7 +26,6 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 📚 Frameworks
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
