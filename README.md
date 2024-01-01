@@ -49,4 +49,4 @@
 
 
 ## GitHub Profile Statistics
-![GitHub Profile Statistics for maw101](https://github-profile-trophy.vercel.app/?username=maw101&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)
+![GitHub Profile Statistics for maw101](https://github-profile-trophy.vercel.app/?username=maw101&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA)
